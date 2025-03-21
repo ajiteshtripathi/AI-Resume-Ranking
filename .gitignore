@@ -1,0 +1,32 @@
+# Virtual Environment
+venv3119/
+
+# Python Bytecode and Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables and Secrets
+.env
+*.env
+
+# Logs and Debug Files
+*.log
+
+# Dependency Files (can be regenerated using `pip install -r requirements.txt`)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+
+# Build and Distribution Files
+build/
+dist/
+*.egg-info/
